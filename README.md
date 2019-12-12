@@ -1,4 +1,4 @@
-**Note:** Apart from this comment, this file is unmodified. My own notes appear in `ubuntu Setup.md` which I use to install and experiment with the library.
+**Note:** Apart from this comment, this file is unmodified from Microsoft's version. My own notes appear in `ubuntu Setup.md` which I use to install and experiment with the library.
 
 
 # Microsoft SEAL
