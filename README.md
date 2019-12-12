@@ -1,3 +1,6 @@
+**Note:** Apart from this comment, this file is unmodified. My own notes appear in `ubuntusetup.sh` which I use to install and experiment with the library on AWS.
+
+
 # Microsoft SEAL
 
 Microsoft SEAL is an easy-to-use homomorphic encryption library developed by researchers in 
