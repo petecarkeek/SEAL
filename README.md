@@ -1,4 +1,4 @@
-**Note:** Apart from this comment, this file is unmodified. My own notes appear in `ubuntusetup.sh` which I use to install and experiment with the library on AWS.
+**Note:** Apart from this comment, this file is unmodified. My own notes appear in `ubuntu Setup.md` which I use to install and experiment with the library.
 
 
 # Microsoft SEAL
